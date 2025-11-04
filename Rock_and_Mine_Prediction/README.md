@@ -121,12 +121,9 @@ Run the script step-by-step or execute all cells in the notebook.
 Enter new input values to make predictions.
 
 📚 References
-
 UCI Machine Learning Repository – Sonar Dataset
-
 Scikit-learn Documentation
 
 👨‍💻 Author
-
-Your Name
+Aatir Ali
 Machine Learning Enthusiast
